@@ -3,6 +3,9 @@
     max-width: 800px;
     background-color: #8305;
 }
+.block {
+    margin: 50px 0 100px 0;
+}
 .square {
     margin: 0 auto;
     background-color: #2356;
@@ -13,14 +16,29 @@
 }
 .square h1 {
     text-align: center;
+    font-size: 35px;
 }
-.block {
-    margin: 50px 0 100px 0;
-}
+
 .rectangle {
     margin: 0 auto;
     background-color: #2356;
     width: 400px;
     height: 200px;
     border: 10px solid #000;
+}
+.rectangle h2 {
+    text-align: center;
+    font-size: 35px;
+}
+.circle {
+    margin: 0 auto;
+    background-color: #2356;
+    width: 400px;
+    border-radius: 50%;
+    height: 400px;
+    border: 10px solid #000;
+}
+.circle h2 {
+    text-align: center;
+    font-size: 35px;
 }
