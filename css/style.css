@@ -14,3 +14,13 @@
 .square h1 {
     text-align: center;
 }
+.block {
+    margin: 50px 0 100px 0;
+}
+.rectangle {
+    margin: 0 auto;
+    background-color: #2356;
+    width: 400px;
+    height: 200px;
+    border: 10px solid #000;
+}
